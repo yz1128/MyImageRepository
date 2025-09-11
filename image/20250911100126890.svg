@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 系统功能结构图.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="13.8287in" height="6.63386in"
+		viewBox="0 0 995.669 477.638" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.708661}
+		.st2 {fill:#000000;font-family:微软雅黑;font-size:0.885818em}
+		.st3 {font-size:1em}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.12598}
+		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.41732}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Page-1</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Background" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" v:layerMember="0" transform="translate(405.62,-278.858)">
+			<title>rectangle</title>
+			<desc>东软体检报告管理系统</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="43.937" cy="463.465" width="73.71" height="28.3465"/>
+			<rect x="0" y="449.291" width="87.874" height="28.3465" class="st1"/>
+			<text x="12.05" y="460.19" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>东软体检报告<tspan
+						x="22.68" dy="1.212em" class="st3">管理系统</tspan></text>		</g>
+		<g id="shape2-5" v:mID="2" v:groupContext="shape" v:layerMember="0" transform="translate(169.37,-199.488)">
+			<title>Shape.2</title>
+			<desc>用户认证模块</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="41.1024" cy="463.465" width="68.04" height="28.3465"/>
+			<rect x="0" y="449.291" width="82.2047" height="28.3465" class="st1"/>
+			<text x="9.21" y="466.7" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>用户认证模块</text>		</g>
+		<g id="shape3-8" v:mID="3" v:groupContext="shape" v:layerMember="0" transform="translate(268.583,-199.488)">
+			<title>Shape.3</title>
+			<desc>体检用户管理模块功能</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="61.6535" cy="463.465" width="109.14" height="28.3465"/>
+			<rect x="0" y="449.291" width="123.307" height="28.3465" class="st1"/>
+			<text x="8.5" y="466.7" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>体检用户管理模块功能</text>		</g>
+		<g id="shape4-11" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(616.89,-195.85)">
+			<title>Shape.4</title>
+			<desc>总检结论管理模块功能</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="64.4882" cy="461.646" width="114.81" height="31.9843"/>
+			<rect x="0" y="445.654" width="128.976" height="31.9843" class="st1"/>
+			<text x="11.34" y="464.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>总检结论管理模块功能</text>		</g>
+		<g id="shape5-14" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(197.008,-68.4026)">
+			<title>Shape.5</title>
+			<desc>医生登录</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="416.61" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>医<tspan x="8.15"
+						dy="1.2em" class="st3">生</tspan><tspan x="8.15" dy="1.2em" class="st3">登</tspan><tspan x="8.15"
+						dy="1.212em" class="st3">录</tspan></text>		</g>
+		<g id="shape6-20" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(282.756,-68.4026)">
+			<title>Shape.6</title>
+			<desc>查询体检用户</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="403.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>查<tspan x="8.15"
+						dy="1.2em" class="st3">询</tspan><tspan x="8.15" dy="1.2em" class="st3">体</tspan><tspan x="8.15" dy="1.2em"
+						class="st3">检</tspan><tspan x="8.15" dy="1.2em" class="st3">用</tspan><tspan x="8.15" dy="1.212em"
+						class="st3">户</tspan></text>		</g>
+		<g id="shape7-28" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(350.787,-68.4026)">
+			<title>Shape.7</title>
+			<desc>筛选体检用户</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="403.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>筛<tspan x="8.15"
+						dy="1.2em" class="st3">选</tspan><tspan x="8.15" dy="1.2em" class="st3">体</tspan><tspan x="8.15" dy="1.2em"
+						class="st3">检</tspan><tspan x="8.15" dy="1.2em" class="st3">用</tspan><tspan x="8.15" dy="1.212em"
+						class="st3">户</tspan></text>		</g>
+		<g id="shape8-36" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(616.89,-68.4026)">
+			<title>Shape.8</title>
+			<desc>添加总检结论</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="403.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>添<tspan x="8.15"
+						dy="1.2em" class="st3">加</tspan><tspan x="8.15" dy="1.2em" class="st3">总</tspan><tspan x="8.15" dy="1.2em"
+						class="st3">检</tspan><tspan x="8.15" dy="1.2em" class="st3">结</tspan><tspan x="8.15" dy="1.212em"
+						class="st3">论</tspan></text>		</g>
+		<g id="shape9-44" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(654.449,-68.4026)">
+			<title>Shape.9</title>
+			<desc>编辑总检结论</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="403.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>编<tspan x="8.15"
+						dy="1.2em" class="st3">辑</tspan><tspan x="8.15" dy="1.2em" class="st3">总</tspan><tspan x="8.15" dy="1.2em"
+						class="st3">检</tspan><tspan x="8.15" dy="1.2em" class="st3">结</tspan><tspan x="8.15" dy="1.212em"
+						class="st3">论</tspan></text>		</g>
+		<g id="shape10-52" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(692.008,-68.4026)">
+			<title>Shape.10</title>
+			<desc>删除总检结论</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="403.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>删<tspan x="8.15"
+						dy="1.2em" class="st3">除</tspan><tspan x="8.15" dy="1.2em" class="st3">总</tspan><tspan x="8.15" dy="1.2em"
+						class="st3">检</tspan><tspan x="8.15" dy="1.2em" class="st3">结</tspan><tspan x="8.15" dy="1.212em"
+						class="st3">论</tspan></text>		</g>
+		<g id="shape11-60" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(432.992,-199.488)">
+			<title>Shape.11</title>
+			<desc>体检报告管理模块功能</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="63.4252" cy="463.465" width="112.68" height="28.3465"/>
+			<rect x="0" y="449.291" width="126.85" height="28.3465" class="st1"/>
+			<text x="10.28" y="466.7" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>体检报告管理模块功能</text>		</g>
+		<g id="shape12-63" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(405.62,-68.4026)">
+			<title>Shape.12</title>
+			<desc>生成报告模板</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="403.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>生<tspan x="8.15"
+						dy="1.2em" class="st3">成</tspan><tspan x="8.15" dy="1.2em" class="st3">报</tspan><tspan x="8.15" dy="1.2em"
+						class="st3">告</tspan><tspan x="8.15" dy="1.2em" class="st3">模</tspan><tspan x="8.15" dy="1.212em"
+						class="st3">板</tspan></text>		</g>
+		<g id="shape13-71" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(482.864,-68.4026)">
+			<title>Shape.13</title>
+			<desc>保存检查数据</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="403.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>保<tspan x="8.15"
+						dy="1.2em" class="st3">存</tspan><tspan x="8.15" dy="1.2em" class="st3">检</tspan><tspan x="8.15" dy="1.2em"
+						class="st3">查</tspan><tspan x="8.15" dy="1.2em" class="st3">数</tspan><tspan x="8.15" dy="1.212em"
+						class="st3">据</tspan></text>		</g>
+		<g id="shape14-79" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(521.486,-68.4026)">
+			<title>Shape.14</title>
+			<desc>异常结果判断</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="403.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>异<tspan x="8.15"
+						dy="1.2em" class="st3">常</tspan><tspan x="8.15" dy="1.2em" class="st3">结</tspan><tspan x="8.15" dy="1.2em"
+						class="st3">果</tspan><tspan x="8.15" dy="1.2em" class="st3">判</tspan><tspan x="8.15" dy="1.212em"
+						class="st3">断</tspan></text>		</g>
+		<g id="shape15-87" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(444.242,-68.4026)">
+			<title>Shape.15</title>
+			<desc>编辑检查指标</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="403.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>编<tspan x="8.15"
+						dy="1.2em" class="st3">辑</tspan><tspan x="8.15" dy="1.2em" class="st3">检</tspan><tspan x="8.15" dy="1.2em"
+						class="st3">查</tspan><tspan x="8.15" dy="1.2em" class="st3">指</tspan><tspan x="8.15" dy="1.212em"
+						class="st3">标</tspan></text>		</g>
+		<g id="shape16-95" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(560.285,-68.4026)">
+			<title>Shape.16</title>
+			<desc>归档体检报告</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="403.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>归<tspan x="8.15"
+						dy="1.2em" class="st3">档</tspan><tspan x="8.15" dy="1.2em" class="st3">体</tspan><tspan x="8.15" dy="1.2em"
+						class="st3">检</tspan><tspan x="8.15" dy="1.2em" class="st3">报</tspan><tspan x="8.15" dy="1.212em"
+						class="st3">告</tspan></text>		</g>
+		<g id="shape17-103" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(729.567,-68.4026)">
+			<title>Shape.17</title>
+			<desc>查询总检结论</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="13.4646" cy="432.646" width="12.76" height="89.9832"/>
+			<rect x="0" y="387.655" width="26.9291" height="89.9832" class="st1"/>
+			<text x="8.15" y="403.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>查<tspan x="8.15"
+						dy="1.2em" class="st3">询</tspan><tspan x="8.15" dy="1.2em" class="st3">总</tspan><tspan x="8.15" dy="1.2em"
+						class="st3">检</tspan><tspan x="8.15" dy="1.2em" class="st3">结</tspan><tspan x="8.15" dy="1.212em"
+						class="st3">论</tspan></text>		</g>
+		<g id="shape18-111" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(449.557,-227.835)">
+			<title>linker</title>
+			<path d="M0 426.61 L0 459.78 L231.82 459.78 L231.82 477.64" class="st4"/>
+		</g>
+		<g id="shape19-114" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(330.236,-278.858)">
+			<title>Dynamic connector.19</title>
+			<path d="M0 528.66 L0 511.31 L119.32 511.31 L119.32 477.64" class="st5"/>
+		</g>
+		<g id="shape20-117" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(210.472,-278.858)">
+			<title>Dynamic connector.20</title>
+			<path d="M0 528.66 L0 510.8 L239.08 510.8 L239.08 477.64" class="st4"/>
+		</g>
+		<g id="shape21-120" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(210.472,-158.386)">
+			<title>Dynamic connector.21</title>
+			<path d="M0 436.54 L0 457.09 L0 477.64" class="st5"/>
+		</g>
+		<g id="shape22-123" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(330.236,-158.386)">
+			<title>Dynamic connector.22</title>
+			<path d="M0 436.54 L0 457.09 L-34.02 457.09 L-34.02 477.64" class="st5"/>
+		</g>
+		<g id="shape23-126" v:mID="23" v:groupContext="shape" v:layerMember="0" transform="translate(330.236,-158.386)">
+			<title>Dynamic connector.23</title>
+			<path d="M0 436.54 L0 457.09 L34.02 457.09 L34.02 477.64" class="st5"/>
+		</g>
+		<g id="shape24-129" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(681.378,-158.386)">
+			<title>Dynamic connector.24</title>
+			<path d="M0 440.17 L0 458.91 L-51.02 458.91 L-51.02 477.64" class="st5"/>
+		</g>
+		<g id="shape25-132" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(681.378,-158.386)">
+			<title>Dynamic connector.25</title>
+			<path d="M0 440.17 L0 458.91 L-13.46 458.91 L-13.46 477.64" class="st5"/>
+		</g>
+		<g id="shape26-135" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(681.378,-158.386)">
+			<title>Dynamic connector.26</title>
+			<path d="M0 440.17 L0 458.91 L24.09 458.91 L24.09 477.64" class="st5"/>
+		</g>
+		<g id="shape27-138" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(496.417,-158.386)">
+			<title>Dynamic connector.27</title>
+			<path d="M0 436.54 L0 457.09 L-77.33 457.09 L-77.33 477.64" class="st5"/>
+		</g>
+		<g id="shape28-141" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(496.417,-158.386)">
+			<title>Dynamic connector.28</title>
+			<path d="M0 436.54 L0 457.09 L-0.09 457.09 L-0.09 477.64" class="st5"/>
+		</g>
+		<g id="shape29-144" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(496.417,-158.386)">
+			<title>Dynamic connector.29</title>
+			<path d="M0 436.54 L0 457.09 L38.53 457.09 L38.53 477.64" class="st5"/>
+		</g>
+		<g id="shape30-147" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(449.557,-227.835)">
+			<title>Dynamic connector.30</title>
+			<path d="M0 426.61 L0 460.29 L46.86 460.29 L46.86 477.64" class="st5"/>
+		</g>
+		<g id="shape31-150" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(457.707,-199.488)">
+			<title>Dynamic connector.31</title>
+			<path d="M0 519.62 L0 498.63 L38.71 498.63 L38.71 477.64" class="st5"/>
+		</g>
+		<g id="shape32-153" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(573.75,-199.488)">
+			<title>Dynamic connector.32</title>
+			<path d="M0 519.48 L0 498.56 L-77.33 498.56 L-77.33 477.64" class="st5"/>
+		</g>
+		<g id="shape33-156" v:mID="33" v:groupContext="shape" v:layerMember="0" transform="translate(743.031,-195.851)">
+			<title>Dynamic connector.33</title>
+			<path d="M0 515.81 L0 496.34 L-61.65 496.34 L-61.65 477.64" class="st5"/>
+		</g>
+	</g>
+</svg>
